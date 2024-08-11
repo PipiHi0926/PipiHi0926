@@ -1,5 +1,5 @@
 ### About Me:  
-Hi! I'm a dedicated data scientist with extensive experience in scheduling and dispatching heuristic algorithms, machine learning applications, and time series analysis. As a technical project manager, I excel in leading and executing complex projects, ensuring that technical solutions align with business goals while delivering successful outcomes.
+Hi! I'm a dedicated **data scientist** with extensive experience in scheduling and dispatching **heuristic algorithms**, **machine learning** applications, and **time series analysis**. As a technical project manager, I excel in leading and executing complex projects, ensuring that technical solutions align with business goals while delivering successful outcomes.
 
 ### Working on: 🚀
 
