@@ -7,8 +7,26 @@ Hi! I'm a dedicated data scientist with extensive experience in scheduling and d
 - Building advanced planning and scheduling systems (APS)
 - Designing energy-efficient refrigeration systems
 
-## Working on
+### Social media: 🌐
 
+
+<p>
+  <a href="https://www.facebook.com/YCrabbit.0926">
+    <img src="https://github.com/user-attachments/assets/ec950ca8-e4d5-4856-bfd1-7850fd4660ac" alt="FB" width="30" height="30">
+  </a>
+  <a href="https://www.instagram.com/ssmc__0926/">
+    <img src="https://github.com/user-attachments/assets/78f71b4e-5a6c-4016-8448-cec773043fc5" alt="Instagram" width="30" height="30">
+  </a>
+  <a href="mailto:jason0304050607@gmail.com">
+    <img src="https://github.com/user-attachments/assets/41791d9e-36fe-4d2a-bcae-9483488b0538" alt="Gmail" width="30" height="30">
+  </a>
+  <a href="https://medium.com/@yc_rabbit">
+    <img src="https://github.com/user-attachments/assets/24fc42d8-2973-4628-9284-8ccc14593bd7" alt="medium" width="30" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/%E6%B0%B8%E8%AA%A0-%E9%84%AD-56a3a5284/">
+    <img src="https://github.com/user-attachments/assets/551180b7-c258-4905-bdd1-1eb172039dc2" alt="Linkin" width="30" height="30">
+  </a>
+</p>
 ## Languages and Tools 
 <div>
 
@@ -19,12 +37,31 @@ Hi! I'm a dedicated data scientist with extensive experience in scheduling and d
 |System development, data analysis, API deployment|Statistical analysis, data visualization|Game design using Unity3D|Kernel code development for scheduling systems|Basic Android app development|
 |⭐⭐⭐⭐⭐|⭐⭐⭐⭐|⭐⭐|⭐⭐|⭐|
 
+### Best frameworks and main libraries for Python3:
+- Numpy: Foundation for numerical computations
+- Pandas: Data manipulation and analysis
+- Sklearn: Essential tools for machine learning, metaheuristic algrithm
+- Pytorch: Primary framework for deep learning
+- LangChain: Building applications with LLMs
+- Llamaindex: Data pipeline processing and querying for LLMs
 
+### Environments, Testing, Other:
+- Visual studio code
+- Git
+- Docker
+- Pytest
+- Postman 
 
-
-
-
-
+### My tools for Data Manipulation & Visualisation:
+- Conda 
+- Jupyter
+- Postgres
+- Plotly
+- Seaborn
+  
+### OS:
+- Linux
+- WSL (Windows Subsystem for Linux)
 
 
 
