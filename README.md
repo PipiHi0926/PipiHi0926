@@ -69,6 +69,9 @@ Hi! I'm a dedicated **data scientist** with extensive experience in scheduling a
   <a href="https://www.linkedin.com/in/%E6%B0%B8%E8%AA%A0-%E9%84%AD-56a3a5284/">
     <img src="https://github.com/user-attachments/assets/551180b7-c258-4905-bdd1-1eb172039dc2" alt="Linkin" width="30" height="30">
   </a>
+    <a href="https://github.com/PipiHi0926">
+    <img src="https://github.com/user-attachments/assets/6ba8b971-8f07-4bd8-af85-34c21f3f23a8" alt="Github" width="30" height="30">
+  </a>
 </p>
 
 
